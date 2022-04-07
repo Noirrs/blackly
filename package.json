@@ -1,0 +1,21 @@
+{
+  "name": "blackly",
+  "version": "2.0.0",
+  "description": "An useful cli tool",
+  "main": "index.js",
+  "bin": "index.js",
+  "keywords": [],
+  "author": "Noir",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chalk": "^4.1.2",
+    "fs": "^0.0.1-security",
+    "got": "^11.5.0",
+    "instagram-web-api": "^2.2.2",
+    "lodash": "^4.17.21",
+    "request": "^2.88.2",
+    "terminal-image": "^1.1.0",
+    "user-instagram": "^3.0.0"
+  }
+}
